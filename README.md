@@ -1,4 +1,4 @@
-  ## Hi! I'm Marcello Nazar, a fullstack developer 👋
+  ## Hi! I'm Marcello Nazar, a FullStack developer 👋
 [![Portifolio](https://img.shields.io/website?label=marcellonazar.com&style=for-the-badge&url=https://www.marcellonazar.com.br/)](https://www.marcellonazar.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-nazar/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5537999080458&type=phone_number&app_absent=0)
