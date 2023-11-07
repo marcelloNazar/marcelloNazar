@@ -1,7 +1,7 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-<img height="180em" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcelloNazar&mode=weekly&theme=dracula" />
+<img height="180em" align="center"  src="https://github-readme-streak-stats.herokuapp.com/api?user=marcelloNazar&mode=annually&theme=dracula" />
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloNazar&theme=dracula&layout=compact&count_private=true" />
  </div>
  
