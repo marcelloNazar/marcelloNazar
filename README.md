@@ -4,7 +4,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5537999080458&type=phone_number&app_absent=0)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelloNazar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloNazar&theme=dracula&layout=compact&count_private=true)
+
  
  &nbsp;
  &nbsp;
