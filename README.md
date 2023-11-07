@@ -6,6 +6,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelloNazar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloNazar&theme=dracula&layout=compact&count_private=true)
 
+<div  align="center" style="margin-bottom:100px">
+<img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=marcelloNazar&show_icons=true&theme=radical" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloNazar&theme=dracula&layout=compact&count_private=true" />
+ </div>
+
  
  &nbsp;
  &nbsp;
