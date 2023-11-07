@@ -1,5 +1,6 @@
 ## Hi! I'm Marcello Nazar, a fullstack developer 👋
 [![Portifolio](https://img.shields.io/website?label=marcellonazar.com&style=for-the-badge&url=https://www.marcellonazar.com.br/)](https://www.marcellonazar.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-nazar/)
 
 <div  align="center" style="margin-bottom:100px">
 <img height="180em" align="center"  src="https://github-readme-streak-stats.herokuapp.com/api?user=marcelloNazar&mode=annually&theme=dracula" />
