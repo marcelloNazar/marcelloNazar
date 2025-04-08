@@ -3,17 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-nazar/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5537999080458&type=phone_number&app_absent=0)
 
-
-<div  align="start" style="margin-bottom:100px">
-<img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=marcelloNazar&show_icons=true&theme=tokyonight&mode=year" />
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloNazar&theme=tokyonight&layout=compact&count_private=false" />
- </div>
-
- 
- &nbsp;
- &nbsp;
-
-
 ## My Skills
 
 #### Programming Language:
